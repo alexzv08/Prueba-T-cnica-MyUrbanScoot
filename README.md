@@ -22,7 +22,7 @@ Git
 PostgreSQL
 
 2️⃣ Clonar el repositorio
-git clone [https://github.com/tuusuario/myurban-test.git](https://github.com/alexzv08/MyUrbanScoot-Task.git)
+git clone [https://github.com/tuusuario/myurban-test.git](https://github.com/alexzv08/Prueba-T-cnica-MyUrbanScoot.git)
 
 3️⃣ Instalación de dependencias
 
@@ -46,3 +46,9 @@ Si se requiere acceso al panel de administración, aquí están las credenciales
 Usuario: admin
 
 Contraseña: admin
+
+
+📽️ Video de Demostración
+
+Puedes ver el video de demostración del proyecto en el siguiente enlace:
+🔗 [Video de la prueba técnica](https://youtu.be/pwioRDwr8XU)
